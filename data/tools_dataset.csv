@@ -1,0 +1,17 @@
+ToolID,ToolName,TimeShift,Manager,Remark
+T_0001,Soldering,Morning,Arjun Mehra,All joints are clean
+T_0001,Soldering,Evening,Ravi Kumar,Socket misalignment detected
+T_0001,Soldering,Night,Sandeep Reddy,Process running smoothly
+T_0002,Socket Fitting,Morning,Amit Sharma,Glass clarity is acceptable
+T_0002,Socket Fitting,Evening,Nikhil Joshi,No visible defects
+T_0002,Socket Fitting,Night,Rajeev Nair,Components aligned properly
+T_0003,Glass Sealing,Morning,Manoj Chauhan,Heat application optimal
+T_0003,Glass Sealing,Evening,Karan Bhatia,No residue found
+T_0003,Glass Sealing,Night,Vikram Desai,Assembly within tolerance
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
