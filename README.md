@@ -44,7 +44,7 @@ The Smart Product Traceability System enables quality control teams to track and
 1. Clone the repository:
    ```
    git clone https://github.com/Nikhith-08/Smart-Traceability-System.git
-   cd smart-traceability-system
+   cd Smart-Traceability-System
    ```
 
 2. Install dependencies:
